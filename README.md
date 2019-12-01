@@ -1,12 +1,8 @@
-![](logo.png)  
-![](https://img.shields.io/badge/version-1.2.0-blue.svg)
-![](https://img.shields.io/badge/LICENSE-AGPL-blue.svg)
-[![Build Status](https://travis-ci.org/andyxning/shortme.svg?branch=master)](https://travis-ci.org/andyxning/shortme)
 ### Introduction
 ----
-ShortMe is a url shortening service written in Golang.  
+UShort is a url shortening service written in Golang.  
 It is with high performance and scalable.  
-ShortMe is ready to be used in production. Have fun with it. :)
+UShort is ready to be used in production.
 
 ### Features
 ----
@@ -14,7 +10,6 @@ ShortMe is ready to be used in production. Have fun with it. :)
 * Api support
 * Web support
 * Short url black list
-    * To avoid some words, like `f**k` and `stupid`
     * To make sure that apis such as `/version` and `/health` will only be
     used as api not short urls or otherwise when requesting `http://127.0.0.1:3030/version`, version info will be returned rather the long url corresponding to the short url "version".
 * Base string config in configuration file
