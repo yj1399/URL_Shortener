@@ -10,7 +10,7 @@ import (
 
 	"github.com/gorilla/mux"
 )
-// Handling Routes
+// Handling Routes in it 
 func Start() {
 	log.Println("web starts")
 	r := mux.NewRouter()
