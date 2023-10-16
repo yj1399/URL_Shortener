@@ -2,7 +2,7 @@
 ----
 UShort is a url shortening service written in Golang lang.  
 It is with high performance and scalable.  
-UShort is ready to be used in production.
+UShort is ready to be used in production 
 
 ### Features
 ----
