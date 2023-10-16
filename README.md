@@ -357,3 +357,5 @@ self phone. This remains to be tested more meticulous.
 I like drinking orange juice. I will appreciate that if you can give me a cup of orange juice. :)
 
 <img src="WeChatPay.png" height="20%" width="20%"> <img src="AliPay.jpeg" height="20%" width="20%">
+
+xxxxxyzzz
